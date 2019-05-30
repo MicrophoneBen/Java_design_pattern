@@ -2,4 +2,6 @@
 .class
 
 #忽略idea IDE的配置文件
-idea
+.idea
+
+#文件编码格式为GBK
